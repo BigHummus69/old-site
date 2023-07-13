@@ -2,8 +2,8 @@
 
 this is my site for my "projects"
 
-to nacogdoches and conroe isd students, may this find you
+to nacogdoches isd students, L, major l if you even look at this. also if you are, then that means my friends have spread the word. hope it dosen't get blocked...
 
-hummusman#0624 is my discord
+@hummusman69 is my discord
 
 i'll post unblocked stuff and websites here
