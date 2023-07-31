@@ -6,7 +6,7 @@ p{color:white}
 
 body {
   background-image: url("Skybox5.png");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: center;
   background-attachment: scroll;
 }
