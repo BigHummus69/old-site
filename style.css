@@ -4,4 +4,6 @@ h3{color:white}
 
 p{color:white}
 
-body{background-image: url("Skybox5.png");}
+body {
+  background-color: black;
+}
