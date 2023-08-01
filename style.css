@@ -10,3 +10,7 @@ body {
   background-position: center;
   background-attachment: scroll;
 }
+
+body {
+  font-family: Courier New, monospace, sans-serif;
+}
