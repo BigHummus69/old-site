@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
     const password = loginForm.password.value;
 
     if (username === "user" && password === "web_dev") {
-        window.location.replace("real/index.html");
+        window.location.replace("YJYTNhJSHXPmW34wSUHivbVCw/index.html");
     } else {
         loginErrorMsg.style.opacity = 1;
     }
