@@ -9,7 +9,7 @@ body {
   display: grid;
   justify-items: center;
   align-items: center;
-  background-color: PowderBlue;
+  background-image: url("background.png");
 }
 
 #main-holder {
