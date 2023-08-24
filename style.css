@@ -9,7 +9,7 @@ body {
   display: grid;
   justify-items: center;
   align-items: center;
-  background-color: powder_blue;
+  background-color: PowderBlue;
 }
 
 #main-holder {
