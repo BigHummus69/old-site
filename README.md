@@ -1,6 +1,6 @@
 # bighummus69.github.io
 
-this is my site for my "projects"
+this is my old site where I kept my "projects"
 
 @hummusman69 is my discord
 
