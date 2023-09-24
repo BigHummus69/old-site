@@ -12,7 +12,8 @@ body {
     white-space: nowrap;
     border-right: .17em solid pink;
     animation: typing 3.5s steps(30, end), blinking-cursor .5s step-end infinite;
-  }
+    text-align: center;
+}
   
   @keyframes typing {
     from {
